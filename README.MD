@@ -39,6 +39,8 @@ The task for the project is to show avalanche effect in DES by using varying pla
     (4) Keys:- 98BDACE671498FED , 98BCACE471498FED
     (5) Keys:- A05FE3CAFE905DFB , A15FE3CAFE9055FB
 
+Note :- The Plaintext and Keys are given in form of hexadecimal values
+
 ## Results
 
 The result for each test are shown in the form of graphs as images down below :
@@ -54,3 +56,10 @@ The result for each test are shown in the form of graphs as images down below :
 ### Test 3
 
 ![Figure3](./images/Figure_3.png)
+
+## Inorder to run the tests on your machine
+
+```bash
+    pip install matplotlib
+    python run pa1.py
+```
