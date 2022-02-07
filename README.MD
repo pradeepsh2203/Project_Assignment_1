@@ -61,5 +61,5 @@ The result for each test are shown in the form of graphs as images down below :
 
 ```bash
     pip install matplotlib
-    python run pa1.py
+    python pa1.py
 ```
